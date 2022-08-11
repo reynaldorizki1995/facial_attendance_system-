@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+.logo {
+    float: left;
+    height: 80px;
+}
+
+/* Top navigation bar */
+
+#navigation-container {
+    width: 1200px;
+    margin: 0 auto;
+    height: 70px;
+}
+.navigator-bar {
+    background-color: #352d2f;
+    height: 90px;
+    width: 100%;
+    text-align: center;
+}
+.navigator-bar img{
+    float: left;
+}
+
+#menu {
+    float: right;
+}
